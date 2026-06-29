@@ -1,0 +1,12 @@
+# Secrets
+.env
+
+# Data & Cache
+vectorstore/
+uploads/
+__pycache__/
+*.pyc
+
+# OS Files
+.DS_Store
+Thumbs.db
