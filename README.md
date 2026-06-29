@@ -1,6 +1,5 @@
 # Document_Intelligence_Assistant
 
-```markdown
 # DocuMind AI: Document Intelligence Assistant
 
 DocuMind AI is a powerful, local-first RAG (Retrieval-Augmented Generation) application built to help you chat with your documents. It uses **LangChain**, **FAISS** for vector storage, **HuggingFace** for local embeddings, and **Google Gemini 2.5 Flash** for intelligent document analysis.
